@@ -16,7 +16,7 @@
 ## 效果如下
 
 原图：
-<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/7127f2a1-26aa-41a0-9898-f294c8b0a1fe" />
+<img width="1280" height="1706" alt="image" src="https://github.com/user-attachments/assets/245eafab-e3e6-4748-9192-a4f6a73d8d61" />
 <img width="879" height="1113" alt="image" src="https://github.com/user-attachments/assets/a821ab5b-549b-48d0-873d-1417b106d8d0" />
 
 处理后：
