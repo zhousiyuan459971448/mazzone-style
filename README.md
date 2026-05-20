@@ -20,5 +20,5 @@
 <img width="879" height="1113" alt="image" src="https://github.com/user-attachments/assets/a821ab5b-549b-48d0-873d-1417b106d8d0" />
 
 处理后：
-<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/33ade471-4a00-48e3-91f4-c7cfb6f208bf" />
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/0f77a82c-8b0d-4014-9bc7-5bc7901fd51b" />
 <img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/7de27781-b551-422c-b0a1-782191592ca1" />
