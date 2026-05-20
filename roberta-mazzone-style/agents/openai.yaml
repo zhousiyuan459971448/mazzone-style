@@ -1,0 +1,7 @@
+interface:
+  display_name: "Roberta Mazzone 风格"
+  short_description: "意式慢旅行、空间构图与自然光生活摄影指南。"
+  default_prompt: "Use $roberta-mazzone-style to plan, critique, or edit a photo in Roberta Mazzone inspired Italian slow-travel lifestyle style."
+
+policy:
+  allow_implicit_invocation: true
